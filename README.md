@@ -4,3 +4,6 @@ AAAI 2020 in New York
 
 # Feb 8
 - 개피곤하다. 자련다
+
+# Feb 9
+- 더 피곤해서 

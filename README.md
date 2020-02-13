@@ -10,3 +10,6 @@ AAAI 2020 in New York
 
 # Feb 10
  - 진짜 더 피곤
+
+# Feb 11
+ - 마지막 날~~~

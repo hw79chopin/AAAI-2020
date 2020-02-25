@@ -128,4 +128,4 @@
  <br>
  [기사링크](!http://news.chosun.com/national/future100/index.html)
  <br>
- **Thanks to. 김영진 경제부장, 김신영 경제부 차장, 김경필 기자, 김아사 기자**
+ **Thanks to.김경필 기자님, 김신영 경제부 차장, 김아사 기자님, 김영진 경제부장, **

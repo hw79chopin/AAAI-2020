@@ -1,14 +1,16 @@
 ![](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2019/04/AAAI-20_Logo.jpg)
+![hotel view at DoubleTreeHilton](images/Hotel.jpg)
 - AAAI 2020 in New York
 - 조선일보 [청년 미래탐험대 100] 프로젝트의 도움으로 2월 7일 ~ 2월 13일까지 뉴욕에 다녀올 수 있었다.  
   8일부터 11일까지는 컨퍼런스 취재를 하였는데 그때 무엇을 보고 왔는지 적어보갔슴둥
-  ![hotel view at DoubleTreeHilton](images/Hotel.jpg)
+
 ## About AAAI 2020
 - AAAI는 세계에서 가장 권위있는 AI 학회로 이번이 34번째 컨퍼런스다.  
+- 자세한 건 구글링~>_<
 
 # Feb 8
 ### Lectures and Posters
-![](images/lecture.jpg)
+![](images/grandballroom.JPG)
 - Teaching Undergraduate A.I Classes: An experiment with an attendance requirement  
 - Teaching Constraint Programming using Fable-based Learning via massive Online courses: An experience Report  
 - An Experimental Ethics Approach to Robot Ethics Education  
@@ -36,7 +38,7 @@
 
 # Feb 9
 ### Lectures and Posters
-![](images/Gil.jpg)
+![](images/Gil.JPG)
 - Presidential address by Yolanda Gil
 - How ML is improving U.S Navy Customer Support
 - Feedback-Based Self-Learning in large-scale Conversational AI Agents 
